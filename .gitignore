@@ -20,7 +20,13 @@
 
 
 # Global Folders
-[Pp]rofiles/
+![Pp]rofiles/*
+[Pp]rofiles/*log*
+![Pp]rofiles/X I N G/*
+[Pp]rofiles/X I N G/*log*
+
+!CSV/Attack/X I N G.csv
+
 [Tt]emplates/
 [Tt]emp/
 [Bb]ackup/
